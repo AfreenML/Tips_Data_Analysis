@@ -3,12 +3,10 @@
 This project analyzes the tips dataset to understand customer spending and tipping behavior.
 
 Key Insights:
-- The average bill amount is around 19.78.
-- Male customers tend to spend slightly more than female customers.
-- Saturday has the highest spending, likely due to weekend dining.
-- Smokers tend to spend slightly more compared to non-smokers.
-- There is a strong positive correlation between total bill and tip, indicating higher bills lead to higher tips.
-- Larger groups tend to generate higher bills and slightly higher tips.
+-Top Earner: Saturday dinner is the most profitable shift.
+-Bill Impact: Higher bills are the primary driver of higher tips ($r=0.67$).
+-Efficiency: While men spend more on average, tip percentages are consistent across demographics.
+-Staffing: Data suggests prioritizing staff for large groups on weekends to maximize revenue.
 
 Tools Used:
 - Python
