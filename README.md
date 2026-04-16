@@ -3,6 +3,7 @@
 This project analyzes the tips dataset to understand customer spending and tipping behavior.
 
 Key Insights:
+
 -Top Earner: Saturday dinner is the most profitable shift.
 
 -Bill Impact: Higher bills are the primary driver of higher tips ($r=0.67$).
